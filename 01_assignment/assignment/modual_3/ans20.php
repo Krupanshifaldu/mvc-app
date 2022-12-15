@@ -1,2 +1,0 @@
-What is use of the header() function in PHP?
---->The header() function is an predefined PHP native function.With header() HTTP functions we can control data sent to the client or browser by the Web server before some other output has been sent.
